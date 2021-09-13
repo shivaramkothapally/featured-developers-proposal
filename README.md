@@ -1,1 +1,1 @@
-# featured-developers-proposal-
+# featured-developers-proposal
