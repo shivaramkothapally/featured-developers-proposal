@@ -39,6 +39,11 @@ Below are the expected entites
 ## Technology Stack
 
 ## MockUp Screens
+- Below are the mockup screens at present. This can be updated based on the further discussions
+### Home Page
+![Home](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/Homepage.PNG)
+### List Of Developers Page
+![List](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/listOfDevelopers.PNG)
 
 
  
