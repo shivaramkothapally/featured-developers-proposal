@@ -12,7 +12,30 @@
 ## Project Team
 
 ## ER Diagram
-  
+![ER](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/ER.jpeg)
+
+## Entities 
+Below are the expected entites
+- Users
+    - Email
+    - Password
+    - CreatedOn
+    - isDeleted
+ - Developer
+    - DeveloperId
+    - Name
+    - Skills
+    - CurrentRole
+    - Phone
+    - Image
+    - Attainment
+    - Goal
+    - Link
+    - CreatedBy
+    - CreatedOn
+    - lastShowed
+    - Updatedby
+    - UpdatedOn
 ## Technology Stack
 
 ## MockUp Screens
