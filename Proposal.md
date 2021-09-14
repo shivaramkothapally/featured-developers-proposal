@@ -10,7 +10,8 @@
   3. In order to make changes to the developers information on the application users have to login to the application by clicking on the "Login" button on the homepage.
 
 ## Project Team
-
+- Jaya Kumar Saga - Backend developer
+- Shiva Ram Kothapally - UI Developer
 ## ER Diagram
 ![ER](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/ER.jpeg)
 
