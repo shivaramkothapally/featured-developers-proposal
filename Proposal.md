@@ -38,6 +38,9 @@ Below are the expected entites
     - Updatedby
     - UpdatedOn
 ## Technology Stack
+  - Frontend - Vue.js
+  - Backend - .NET
+  - Database - Heroku PostgreSQL
 
 ## MockUp Screens
 - Below are the mockup screens at present. This can be updated based on the further discussions
