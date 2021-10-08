@@ -13,7 +13,7 @@
 - Jaya Kumar Saga - Backend developer
 - Shiva Ram Kothapally - UI Developer
 ## ER Diagram
-![ER]()
+![ER](https://raw.githubusercontent.com/shivaramkothapally/featured-developers-proposal/main/Images/ER.png)
 
 ## Entities 
 Below are the expected entites
