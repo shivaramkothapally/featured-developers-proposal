@@ -18,20 +18,21 @@
 ## Entities 
 Below are the expected entites
 - Users
-    - Email
-    - Password
-    - CreatedOn
-    - isDeleted
+    - UserId - Integer
+    - UserName - Character varying
+    - Password - Character varying
+    - CreatedOn - date
+    - isDeleted - boolean
  - Developer
-    - DeveloperId
-    - Name
-    - Skills
-    - Image
-    - Goal
-    - LinkedInURL
-    - GithubURL
-    - CreatedOn
-    - lastShowed
+    - DeveloperId - Integer
+    - Name - Character varying
+    - Skills - Character varying
+    - Image - Character varying
+    - Goal - Character varying
+    - LinkedInURL - Character varying
+    - GithubURL - Character varying
+    - CreatedOn - Date
+    - lastShowed - Date
 ## Technology Stack
   - Frontend - Vue.js
   - Backend - .NET
