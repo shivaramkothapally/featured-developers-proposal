@@ -26,17 +26,12 @@ Below are the expected entites
     - DeveloperId
     - Name
     - Skills
-    - CurrentRole
-    - Phone
     - Image
-    - Attainment
     - Goal
-    - Link
-    - CreatedBy
+    - LinkedInURL
+    - GithubURL
     - CreatedOn
     - lastShowed
-    - Updatedby
-    - UpdatedOn
 ## Technology Stack
   - Frontend - Vue.js
   - Backend - .NET
