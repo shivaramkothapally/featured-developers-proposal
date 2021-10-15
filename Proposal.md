@@ -52,4 +52,12 @@ To check the performance of the app we will be using Lighthouse tool provided by
 ### Login Screen
  ![Login](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/LoginScreen.PNG)
  
+## Mobile View Screens
+
+![Home](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/HomeMobileView.PNG)
+
+![ListView](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/DevelopersListMobileVIew.PNG)
+
+![LoginScreen](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/LoginMobileView.PNG)
+ 
   
