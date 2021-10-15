@@ -5,10 +5,11 @@
 Featured developers is an application where users can find the information about the developers from GDP section 1 in class of 2021
 
 # Proposed Stack
- - FrontEnd - Vue.js
+
  - BackEnd - C#/.NET
+ - Backend free app host - Heroku
  - Database - Heroku PostgreSQL
- - Front-end page plan - SPA
+ - Front-end page plan - SPA (Vue)
  - Front-end responsive design - Bootstrap 
 
 # Implementation Repo
