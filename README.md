@@ -6,5 +6,7 @@ Featured developers is an application where users can find the information about
 
 # Proposed Stack
  - FrontEnd - Vue.js
- - BackEnd - .NET
- - Database - MySQL/PostgreSQL
+ - BackEnd - C#/.NET
+ - Database - Heroku PostgreSQL
+ - Front-end page plan - SPA
+ - Front-end responsive design - Bootstrap 
