@@ -24,10 +24,11 @@ Below are the expected entites
     - CreatedOn - date
     - isDeleted - boolean
  - Developer
-    - DeveloperId - Integer
-    - Name - Character varying
+    - DeveloperId - Character varying
+    - fullname - Character varying
+    - emailaddress - Character varying
     - Skills - Character varying
-    - Image - Character varying
+    - Image - text
     - Goal - Character varying
     - LinkedInURL - Character varying
     - GithubURL - Character varying
