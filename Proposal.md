@@ -35,9 +35,11 @@ Below are the expected entites
     - CreatedOn - Date
     - lastShowed - Date
 ## Technology Stack
-  - Frontend - Vue.js
-  - Backend - .NET
-  - Database - Heroku PostgreSQL
+  - Backend Language - C#/.NET
+  - Datahost - Heroku PostgreSQL
+  - Front-end page plan - SPA (Vue)
+  - Front-end responsive design - Bootstrap
+  - Backend free app host - Heroku
 
 ## Performance Metrics
 To check the performance of the app we will be using Lighthouse tool provided by Google. Lighthouse should show all categories like performance, Progressive web app, best practices, Accessibility and others in green.
