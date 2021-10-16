@@ -71,3 +71,4 @@ To check the performance of the app we will be using Lighthouse tool provided by
 ![LoginScreen](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/LoginMobileView.PNG)
  
  Note: In case any changes are required to make screen look better will discuss it with client and make appropriate changes  
+  - Client approval comments are available in Issues tab
