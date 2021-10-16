@@ -42,6 +42,10 @@ Below are the expected entites
 ## Performance Metrics
 To check the performance of the app we will be using Lighthouse tool provided by Google. Lighthouse should show all categories like performance, Progressive web app, best practices, Accessibility and others in green.
 
+## Link to Trello Story board
+
+[Trello](https://trello.com/b/yRWaDdG1/featureddeveloper)
+
 ## Budget Details
 
 ![Budget details](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/Images/BudgetInfo.PNG)
