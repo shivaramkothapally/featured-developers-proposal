@@ -17,4 +17,4 @@ Featured developers is an application where users can find the information about
 [BackEnd](https://github.com/sagajayakumar/FeaturedDeveloper3A/tree/master)
 
 # Hosted App
-[Hoste at](https://featureddeveloper.herokuapp.com/#/)
+[Hosted at](https://featureddeveloper.herokuapp.com/#/)
