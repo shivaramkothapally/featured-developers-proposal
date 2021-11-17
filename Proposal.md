@@ -34,6 +34,7 @@ Below are the expected entites
     - GithubURL - Character varying
     - CreatedOn - Date
     - lastShowed - Date
+    - isDeleted - Boolean
 
 ## Sample data
   - [Sample Data](https://github.com/shivaramkothapally/featured-developers-proposal/blob/main/SampleData/data.csv)
